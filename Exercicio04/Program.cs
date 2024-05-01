@@ -1,9 +1,5 @@
 ﻿using System;
 
-class Program
-{
-    static void Main(string[] args)
-    {
         Produto produto = new Produto("MacBook", 6000.0, 10);
         
         Console.WriteLine("Valor total em estoque: " + produto.CalcularValorTotalEmEstoque());
@@ -13,5 +9,4 @@ class Program
 
         produto.RemoverDoEstoque(3);
         Console.WriteLine("Valor total em estoque após remoção: " + produto.CalcularValorTotalEmEstoque());
-    }
-}
+

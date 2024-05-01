@@ -1,9 +1,5 @@
 ﻿using System;
 
-class Program
-{
-    static void Main(string[] args)
-    {
         Filme filme = new Filme("Transformers", "Ficção Científica", 120);
         
         filme.RegistrarLocacao();
@@ -11,5 +7,3 @@ class Program
         
         filme.RegistrarDevolucao();
         filme.VerificarDisponibilidade();
-    }
-}

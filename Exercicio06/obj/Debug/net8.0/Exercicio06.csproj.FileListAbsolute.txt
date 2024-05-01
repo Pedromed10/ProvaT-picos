@@ -12,3 +12,4 @@ C:\Users\Pedro\Documents\Prova Topicos\Exercicio06\obj\Debug\net8.0\refint\Exerc
 C:\Users\Pedro\Documents\Prova Topicos\Exercicio06\obj\Debug\net8.0\Exercicio06.pdb
 C:\Users\Pedro\Documents\Prova Topicos\Exercicio06\obj\Debug\net8.0\Exercicio06.genruntimeconfig.cache
 C:\Users\Pedro\Documents\Prova Topicos\Exercicio06\obj\Debug\net8.0\ref\Exercicio06.dll
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio06\obj\Debug\net8.0\Exercicio06.sourcelink.json
