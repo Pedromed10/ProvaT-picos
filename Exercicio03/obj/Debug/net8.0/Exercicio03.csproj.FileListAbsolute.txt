@@ -1,0 +1,14 @@
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio03\bin\Debug\net8.0\Exercicio03.exe
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio03\bin\Debug\net8.0\Exercicio03.deps.json
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio03\bin\Debug\net8.0\Exercicio03.runtimeconfig.json
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio03\bin\Debug\net8.0\Exercicio03.dll
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio03\bin\Debug\net8.0\Exercicio03.pdb
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio03\obj\Debug\net8.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio03\obj\Debug\net8.0\Exercicio03.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio03\obj\Debug\net8.0\Exercicio03.AssemblyInfo.cs
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio03\obj\Debug\net8.0\Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio03\obj\Debug\net8.0\Exercicio03.dll
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio03\obj\Debug\net8.0\refint\Exercicio03.dll
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio03\obj\Debug\net8.0\Exercicio03.pdb
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio03\obj\Debug\net8.0\Exercicio03.genruntimeconfig.cache
+C:\Users\Pedro\Documents\Prova Topicos\Exercicio03\obj\Debug\net8.0\ref\Exercicio03.dll

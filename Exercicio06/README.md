@@ -1,0 +1,3 @@
+Prompt: "Crie uma hierarquia de classes para representar diferentes tipos de veículos, como carros, motos e bicicletas. Cada classe deve herdar da classe base Veiculo. Adicione atributos específicos para cada tipo de veículo, como número de portas para carros, cilindrada para motos e número de marchas para bicicletas."
+
+Esse prompt orienta a criação de uma hierarquia de classes que representam diferentes tipos de veículos, com atributos específicos para cada tipo, mantendo a estrutura comum na classe base Veiculo.

@@ -1,0 +1,7 @@
+Explicação O que são interfaces em orientação a objetos e qual é a sua importância na construção de sistemas em C#.
+
+Interfaces em orientação a objetos são como contratos que definem um conjunto de métodos e propriedades que uma classe deve implementar. Elas fornecem uma maneira de definir um comportamento comum para várias classes, independentemente de sua hierarquia de herança. Em C#, as interfaces são declaradas usando a palavra-chave interface.
+
+A importância das interfaces na construção de sistemas em C# é que elas permitem que diferentes classes compartilhem um comportamento comum, mesmo que essas classes sejam completamente diferentes em sua implementação. Isso promove a modularidade, reutilização de código e flexibilidade do sistema.
+
+Prompt: "Escreva um programa em C# para simular um sistema de pagamento online. Defina uma interface chamada IMetodoPagamento com os métodos ProcessarPagamento() e CancelarPagamento(). Em seguida, implemente três classes que representam diferentes métodos de pagamento: CartaoCredito, PayPal e TransferenciaBancaria, que devem implementar a interface IMetodoPagamento. Crie um programa principal que demonstre o processamento de pagamento para cada método de pagamento, utilizando a interface para garantir a interoperabilidade entre as classes."
